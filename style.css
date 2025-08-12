@@ -68,12 +68,6 @@ min-height: calc(100vh - 100px);
   padding: 20px;
 }
 
-.imagens {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px; /* espaço entre as imagens */
-}
 
 .imagens img {
   width: 200px;
