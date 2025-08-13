@@ -41,11 +41,15 @@ section {
 }
 
 footer {
-  background-color:#ebb8ff;
-  color: white;
-  text-align: center;
-  padding: 20px;
+  background-color: #ff83cb;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
+
 
  
 main{
